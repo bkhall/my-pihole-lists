@@ -3,3 +3,4 @@ api.crashlytics.com
 crashlytics.com
 e.crashlytics.com
 reports.crashlytics.com
+fabric.io

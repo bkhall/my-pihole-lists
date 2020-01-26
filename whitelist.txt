@@ -4,3 +4,5 @@ crashlytics.com
 e.crashlytics.com
 reports.crashlytics.com
 fabric.io
+maven.fabric.io
+cdn-cf.fabric.io
